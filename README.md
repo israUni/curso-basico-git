@@ -60,7 +60,7 @@ El correo electrónico que se utilizará para identificarte dentro de tus reposi
 $ git config --global user.email youremail@mail.com
 ```
 
-Establecer editor de texto por defecto. En algunos casos GIT abrirá el editor de texto configurado para ingresar información. En este caso, se configura VS Code.  Para ver las configuraciones más utilizadas, consulta [aquí](https://desarrollowp.com/blog/tutoriales/aprende-git-de-manera-sencilla-git-config/).
+Establecer editor de texto por defecto. En algunos casos GIT abrirá el editor de texto configurado para ingresar información. En este caso, se configura VS Code.  Para ver las configuraciones más utilizadas, consulta [aquí](https://github.com/israUni/curso-basico-git/blob/main/editors-config.md "Configuracion editores de texto").
 ```powershell
 $ git config --global core.editor "code --wait"
 ```
